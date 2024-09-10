@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+tensorflow
+pysindy
+torch
+torchvision
+jupyterlab
+sympy
+plotly
